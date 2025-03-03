@@ -2,7 +2,7 @@
 
 Submitted by: **Keerthi Peruka**
 
-This web app: **Focuses on providing tech resources information for students and individuals interested in learning new concepts and gaining hands-on technical experiences. *
+This web app: **Focuses on providing tech resources information for students and individuals interested in learning new concepts and gaining hands-on technical experiences.**
 
 Time spent: **3** hours spent in total
 
