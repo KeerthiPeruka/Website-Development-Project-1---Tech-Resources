@@ -23,4 +23,5 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 <img src="https://i.postimg.cc/6p9fsR1B/Video.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
-GIF created with Kap
+
+GIF created with Postimages
