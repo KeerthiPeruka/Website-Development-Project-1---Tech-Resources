@@ -22,5 +22,5 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img src='https://imgur.com/a/XgFHgAZ.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src="https://i.postimg.cc/6p9fsR1B/Video.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
 GIF created with Kap
