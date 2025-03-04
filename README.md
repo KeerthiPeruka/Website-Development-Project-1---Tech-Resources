@@ -22,10 +22,6 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<video width="600" controls>
-    <source src="https://i.imgur.com/HjyNY2i.mp4" type="video/mp4">
-</video>
-
+<img src='https://i.imgur.com/CMf5X65.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with Kap
 
